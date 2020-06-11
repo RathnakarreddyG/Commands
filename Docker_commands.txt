@@ -1,0 +1,5 @@
+docker image ls   => to see images
+docker build -t application . =>to build jar in docker
+docker run -p9090:2121 application.jar
+docker ps -a => to see all containers
+

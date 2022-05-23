@@ -3,3 +3,6 @@ docker build -t application . =>to build jar in docker
 docker run -p9090:2121 application.jar
 docker ps -a => to see all containers
 
+docker ps -a
+docker
+
